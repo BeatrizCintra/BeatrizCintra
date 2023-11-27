@@ -1,7 +1,7 @@
 ## Olá! 
 
-- 🔭  Atualmente trabalho com E-commerce
-- 🌱 Estudand  Python
+- 🔭  Atualmente trabalho com Business
+- 🌱 Estudand  Java Script
 - 😄 Pronouns:  ela/dela 
 
 - 📫 Como chegar até mim:
