@@ -1,7 +1,7 @@
 ## Olá! 
 
-- 🔭  Atualmente trabalho com Business
-- 🌱 Estudand: Java Script
+- 🔭  Atualmente trabalho com Desenvolvimento RPA (Automação) na PagBank
+- 🌱 Estudand: Python
 - 😄 Pronouns:  ela/dela 
 
 - 📫 Como chegar até mim:
